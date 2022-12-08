@@ -1,0 +1,65 @@
+body{
+	background-color: rgb(163, 156, 156);
+}
+
+.main-heading{
+	font-size: 1.5cm;
+	align-content: center;
+	text-align: center;
+}
+
+.bio{
+	text-align: center;
+}
+
+/*img{
+	border-radius: 50%;
+	align-self: right;
+}
+
+.bio-div{
+	display: grid;
+	grid-template-columns: auto 25%;
+	gap: 10px;
+}
+
+.profile-pic{
+	width: 100%;
+
+}*/
+
+.poiu{
+	font-size: 0.7cm;
+	text-align: center;
+	color: white;
+}
+
+.project-headings{
+	font-size: 1cm;
+	text-align: center;
+	color: rgb(58, 12, 12);
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	padding: 10px;
+	background-color: rgb(196, 196, 196);
+  }
+  
+  .grid-item {
+	padding: 20px;
+	font-size: 30px;
+	text-align: center;
+	gap: 10px;
+  }
+
+  .center{
+	text-align: center;
+  }
+
+  .end{
+	text-align: center;
+	font-size: 1.6cm;
+  }
+  
